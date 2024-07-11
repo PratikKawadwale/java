@@ -1,0 +1,3 @@
+javac filename eg:- javac ApDemo.java
+
+appletviewer Demo.html(html file name)
